@@ -5,7 +5,7 @@
   "main": "nightmare.js",
   "dependencies": {
     "chai": "^4.1.2",
-    "jest": "^23.2.0",
+    "jest": "^23.6.0",
     "mocha": "^5.2.0",
     "nightmare": "^3.0.1"
   },

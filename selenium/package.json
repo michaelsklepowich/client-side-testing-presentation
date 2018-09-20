@@ -5,7 +5,7 @@
   "main": "selenium.js",
   "dependencies": {
     "chai": "^4.1.2",
-    "chromedriver": "^2.40.0",
+    "chromedriver": "^2.42.0",
     "selenium-webdriver": "^4.0.0-alpha.1"
   },
   "devDependencies": {},
