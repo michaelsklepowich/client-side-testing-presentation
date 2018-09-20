@@ -1,0 +1,19 @@
+{
+  "name": "nightmare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightmare.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "jest": "^23.2.0",
+    "mocha": "^5.2.0",
+    "nightmare": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test-watch": "jest --watchAll",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
